@@ -1,0 +1,3 @@
+google-adk
+fastmcp==2.5.1
+uv

@@ -1,0 +1,8 @@
+[tool]
+package_manager = "uv"
+
+[commands]
+install = "uv pip install {package}"
+install_all = "uv pip install -r requirements.txt"
+add = "uv pip install {package}"
+remove = "uv pip uninstall {package}" 

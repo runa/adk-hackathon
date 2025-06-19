@@ -1,3 +1,2 @@
-agents/foo.db
-agents/agent/foo.db
+foo.db
 .env
