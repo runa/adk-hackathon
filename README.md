@@ -46,13 +46,8 @@ _See the architecture diagram above for a visual overview._
 7. **Report is stored in Google Cloud Storage and returned to the user.**
 
 ## Submission Details
-- **Hosted Project**: [URL to be provided]
-- **Public Code Repository**: [URL to be provided]
-- **Architecture Diagram**: Embedded above
-- **Demo Video**: [URL to be provided]
-- **Technologies**: See above
+- **Demo Video**: https://www.youtube.com/watch?v=lazPWIA-vuM
 - **Data Sources**: Google Maps, public parcel data, MLS, Google Search
-- **Learnings**: Demonstrated the power of multi-agent orchestration for real-world data analysis and automation.
 
 ---
 

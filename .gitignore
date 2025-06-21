@@ -1,2 +1,4 @@
 foo.db
 .env
+__pycache__
+agents/agent/agents/bridgeoutput_agent/bridge_api/__pycache__/client.cpython-312.pyc
